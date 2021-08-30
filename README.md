@@ -1,2 +1,2 @@
 # bigbrain
-Code web bang tinh
+bigbrain.github.io

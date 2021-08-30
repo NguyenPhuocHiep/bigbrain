@@ -1,2 +1,2 @@
 # bigbrain
-bigbrain.github.io
+https://bigbrainsoroban.github.io/bigbrain/

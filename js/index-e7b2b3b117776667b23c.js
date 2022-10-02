@@ -3583,7 +3583,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
             Object(n.jsx)("div", {
               onClick: function (t) {
                 t.preventDefault(),
-                  (location.href = "https://bigbrainsoroban-tk.blogspot.com");
+                  (location.href = "https://bigbrainsoroban.saku.vn");
               },
               className: d.a.logo_soroban,
               children: Object(n.jsx)("img", {
